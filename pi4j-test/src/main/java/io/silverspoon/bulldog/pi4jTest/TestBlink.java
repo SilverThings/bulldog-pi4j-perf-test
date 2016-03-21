@@ -1,9 +1,7 @@
 package io.silverspoon.bulldog.pi4jTest;
-/**
- * Created by mjaros on 9.3.16.
- */
 
 import com.pi4j.io.gpio.*;
+
 
 public class TestBlink {
 
